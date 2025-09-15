@@ -34,3 +34,6 @@ I am happy to help.
 <a href="https://x.com/Akh8763Fardeen?t=Hvnh-SaxVRPtpuCbkvj_KQ&s=09" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="28"/>
 </a>
+<a href="https://leetcode.com/u/fardeen__3_0" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/ios-filled/50/ffa116/code.png" alt="LeetCode" width="28"/>
+</a>

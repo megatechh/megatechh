@@ -34,6 +34,13 @@ I am happy to help.
 <a href="https://x.com/Akh8763Fardeen?t=Hvnh-SaxVRPtpuCbkvj_KQ&s=09" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="28"/>
 </a>
-<a href="https://leetcode.com/u/fardeen__3_0" target="_blank" rel="noopener">
-  <img src="https://img.icons8.com/ios-filled/50/ffa116/code.png" alt="LeetCode" width="28"/>
+
+🧑‍💻 Coding Profiles  
+
+<a href="https://leetcode.com/u/fardeen__3_0" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/ffffff/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="40"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/fardeenak3k3i/practice" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" width="40"/>
 </a>

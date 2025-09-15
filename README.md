@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there
+Glad to see you here!
 
-<!--
-**megatechh/megatechh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fardeen Akhtar Siddiqui. I'm a student pursuing Bachelor's in Computer Science 🎓 from IERT👨‍💻. 
+I'm a passionate learner who's always willing to learn and work across technologies.
+I love to explore new technologies and try to solve real-life problems 👨‍💻. 
+I'm currently into Full Stack Development 🕸️
 
-Here are some ideas to get you started:
+Talking about personal stuff:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on something cool 👻.
+I'm currently learning Full stack development.
+
+Ask me about anything Fardeen Akhtar Siddiqui(F.A Siddiqui )| I am happy to help.
+How to reach me  at F.A Siddiqui.
+Connect with me:
